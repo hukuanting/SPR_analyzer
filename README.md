@@ -1,4 +1,4 @@
-Author
+# Author
 
 Kuan-Ting Hu
 BioNEMS Laboratory
@@ -10,20 +10,13 @@ Da’an District, Taipei City 10672, Taiwan (ROC)
 
 TEL: +886-2-2732-0054
 
-Advisor
+# Advisor
 
 Professor Chii-Wann Lin
 BioNEMS Laboratory
 National Taiwan University
 
-Laboratory
+# Laboratory
 
 BioNEMS Laboratory
 Nanobiosensing • SPR • Aptamer Engineering • Biomedical MEMS
-
-Citation
-
-If you use this repository in your research, please cite:
-
-Hu, K.-T. SPR_analyzer: Surface Plasmon Resonance Data Analysis Toolkit.
-BioNEMS Laboratory, National Taiwan University.
