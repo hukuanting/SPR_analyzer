@@ -1,27 +1,27 @@
-👨‍🔬 Author
+Author
 
 Kuan-Ting Hu
 BioNEMS Laboratory
-Department of Engineering Science and Ocean Engineering
+Department of Biomedical engineering
 National Taiwan University
 
-📍 Room 524–526, No.49 Fang-Lan Road
+Room 524–526, No.49 Fang-Lan Road
 Da’an District, Taipei City 10672, Taiwan (ROC)
 
-☎ TEL: +886-2-2732-0054
+TEL: +886-2-2732-0054
 
-🎓 Advisor
+Advisor
 
 Professor Chii-Wann Lin
 BioNEMS Laboratory
 National Taiwan University
 
-🧪 Laboratory
+Laboratory
 
 BioNEMS Laboratory
 Nanobiosensing • SPR • Aptamer Engineering • Biomedical MEMS
 
-⭐ Citation
+Citation
 
 If you use this repository in your research, please cite:
 
